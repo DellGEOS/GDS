@@ -24,9 +24,8 @@ The repository includes:
 
 ## Prerequisites
 
-- Dell PowerScale F600 nodes with NVMe drives
-- Dell PowerEdge R7525 servers with NVIDIA A100 GPUs and Mellanox ConnectX-6 NICs
-- Dell PowerSwitch Z-series (Z9264F-ON and Z9332F-ON)
+- Dell PowerScale
+- Server equiped with NVIDIA GPUs and Mellanox ConnectX-6 NICs
 - NVIDIA GPU drivers
 - CUDA Toolkit
 - NVIDIA GDS software stack
